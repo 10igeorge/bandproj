@@ -45,3 +45,26 @@ p.sidehead {
   font-size: 20px;
   margin-top: 10px;
 }
+
+img.album {
+  float: left;
+}
+
+span.late {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+span.title {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.tracklist {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 60px;
+  margin-left: 610px;
+
+}
