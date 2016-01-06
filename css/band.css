@@ -19,10 +19,29 @@
 
 li {
   line-height: 22px;
+  font-size: 15px;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.sidebar {
+  float: left;
+  margin-left: 100px;
+  margin-top: 60px;
+  border: 2px solid teal;
+  border-radius: 140px;
+  padding: 9px 100px;
+  background-color: #EBF4FA;
+}
+
+p.sidehead {
+  text-align: center;
+  font-weight: bolder;
+  text-decoration: underline;
+  font-size: 20px;
+  margin-top: 10px;
 }
