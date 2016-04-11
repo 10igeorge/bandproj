@@ -11,7 +11,7 @@ Epicodus project to exercise very basic HTML/CSS featuring a band's website.
 * run `git clone https://https://github.com/10igeorge/intro-bandproj`
 
 #### Home Page Landing
-https://10igeorge.github.io
+https://10igeorge.github.io/intro-bandproj
 
 ##### License
 
